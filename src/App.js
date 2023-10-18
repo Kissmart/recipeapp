@@ -1,9 +1,9 @@
-import home from './pages/home';
+import home from './pages/Home';
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return <home/>;
+  return <Home/>;
 }
 
 export default App;
