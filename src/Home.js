@@ -1,4 +1,4 @@
-import Home from '.src/pages/Home.js';
+import Home from './pages/Home.js';
 import React from "react";
 
 export class Home extends React.Component {
